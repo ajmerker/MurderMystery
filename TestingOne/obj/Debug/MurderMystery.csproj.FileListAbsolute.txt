@@ -1,0 +1,12 @@
+C:\Users\14047\source\repos\MurderMystery\TestingOne\bin\Debug\TestingOne.exe.config
+C:\Users\14047\source\repos\MurderMystery\TestingOne\bin\Debug\TestingOne.exe
+C:\Users\14047\source\repos\MurderMystery\TestingOne\bin\Debug\TestingOne.pdb
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\MurderMystery.Form1.resources
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\MurderMystery.Form2.resources
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\MurderMystery.Form3.resources
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\MurderMystery.Form4.resources
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\TestingOne.Properties.Resources.resources
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\MurderMystery.csproj.GenerateResource.cache
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\MurderMystery.csproj.CoreCompileInputs.cache
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\TestingOne.exe
+C:\Users\14047\source\repos\MurderMystery\TestingOne\obj\Debug\TestingOne.pdb
